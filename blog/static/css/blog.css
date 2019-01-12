@@ -6,7 +6,7 @@ body {
     padding-left: 15px;
 }
 .page-header {
-    background-color: #ff9400;
+    background-color: #10BCA0;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -27,9 +27,15 @@ h1, h2, h3, h4 {
 
 .date {
     color: #828282;
+    float: right;
 }
 
 .save {
+    float: right;
+}
+
+.btn {
+    margin-right: 5;
     float: right;
 }
 
